@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rivi9&theme=github-compact)
+
 <!--
 **Rivi9/Rivi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
