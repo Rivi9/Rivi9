@@ -49,15 +49,15 @@
     </g>
 
     <g font-family="Inter,Segoe UI,Arial,sans-serif">
-      <text x="72" y="90" fill="#8ca4c7" font-size="15" font-weight="600" letter-spacing="4">SOFTWARE DEVELOPER · SRI LANKA</text>
+      <text x="72" y="90" fill="#8ca4c7" font-size="15" font-weight="600" letter-spacing="4">AI · DEVOPS · SRI LANKA</text>
       <text x="68" y="164" fill="#f4f7ff" font-size="54" font-weight="760" letter-spacing="-1.5">Rivindu Bopage</text>
       <rect x="72" y="185" width="560" height="3" rx="1.5" fill="url(#accent)"/>
-      <text x="72" y="228" fill="#c3d0e6" font-size="20" font-weight="400">Software · Applied AI · Interactive systems</text>
+      <text x="72" y="228" fill="#c3d0e6" font-size="20" font-weight="400">Artificial intelligence · DevOps · Software systems</text>
       <g transform="translate(72 252)">
         <rect width="92" height="34" rx="17" fill="#35d0ba" fill-opacity="0.11" stroke="#35d0ba" stroke-opacity="0.4"/>
         <text x="46" y="22" text-anchor="middle" fill="#73e6d4" font-size="13" font-weight="600">@Rivi9</text>
         <rect x="106" width="144" height="34" rx="17" fill="#4f8cff" fill-opacity="0.11" stroke="#4f8cff" stroke-opacity="0.4"/>
-        <text x="178" y="22" text-anchor="middle" fill="#87afff" font-size="13" font-weight="600">BUILD + LEARN</text>
+        <text x="178" y="22" text-anchor="middle" fill="#87afff" font-size="13" font-weight="600">BUILD + OPERATE</text>
       </g>
     </g>
   </g>
