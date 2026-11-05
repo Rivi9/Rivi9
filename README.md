@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Rivindu Bopage — artificial intelligence, DevOps, and software systems" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Rivindu Bopage: AI, full-stack and DevOps, based in Sri Lanka" />
 </div>
 
 ### Hi, I'm Rivindu 👋
